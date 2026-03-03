@@ -1,5 +1,6 @@
 # <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 💫 About Me:
+
 🔭 I’m a Student at FCAI, Cairo University  <br>🧠 Enthusiastic about Problem Solving<br>🌟 Frontend Developer<br>💻 Turning ideas into clean, responsive interfaces<br>📚 Always learning, always building<br>🤝 Open to collaborations & new opportunities <br>
 
 
